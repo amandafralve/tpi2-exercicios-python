@@ -54,7 +54,7 @@ Elabore um algoritmo que leia o valor da compra e mostre o valor de venda para o
 </details>  
 
 <details>
-  <summary>vetores-e-matrizes</summary
+  <summary>vetores-e-matrizes</summary>
 
 </details>
 
